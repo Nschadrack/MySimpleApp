@@ -1,0 +1,11 @@
+html, body{
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+}
+
+h1{
+	color: red;
+	font-weight: bold;
+	font-family: verdana;
+}
