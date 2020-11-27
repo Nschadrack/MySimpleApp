@@ -1,1 +1,1 @@
-console.log("my status")
+console.log("my status");
